@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^22.14.0",
+    "@types/readline-sync": "^1.4.8",
+    "@types/sentiment": "^5.0.4",
+    "readline-sync": "^1.4.10",
+    "sentiment": "^5.0.2"
+  }
+}
