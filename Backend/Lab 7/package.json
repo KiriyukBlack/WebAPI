@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "start": "ts-node --transpile-only index.ts"
+  },
+  "dependencies": {
+    "koa": "^2.15.3",
+    "koa-router": "^12.0.1",
+    "koa-passport": "^6.0.0",
+    "passport-http": "^0.3.0",
+    "koa-bodyparser": "^4.4.1",
+    "jsonschema": "^1.4.1",
+    "pg": "^8.13.0",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "@types/koa": "^2.15.0",
+    "@types/koa-router": "^7.4.8",
+    "@types/koa-passport": "^6.0.3",
+    "@types/passport-http": "^0.3.11",
+    "@types/koa-bodyparser": "^4.3.12"
+  }
+}
