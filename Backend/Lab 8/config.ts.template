@@ -1,0 +1,9 @@
+// config.ts.template
+exports.config = {
+  host: 'localhost', // Replace with your DB host
+  port: 5432,
+  user: '', // Replace with your DB user name
+  password: '', // Replace with your DB password
+  database: '', // Replace with your DB name
+  connection_limit: 100
+};
