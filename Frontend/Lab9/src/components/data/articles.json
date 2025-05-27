@@ -1,0 +1,11 @@
+[
+  { "id": 1, "title": "Hello Article", "fullText": "Some text here to fill the body" },
+  { "id": 2, "title": "Another Article", "fullText": "Again here is some text to fill" },
+  { "id": 3, "title": "Coventry University", "fullText": "Some news about Coventry University" },
+  { "id": 4, "title": "Smart Campus", "fullText": "Smart campus is coming to IVE" },
+  { "id": 5, "title": "Tech Trends 2025", "fullText": "Exploring the latest technology trends for 2025" },
+  { "id": 6, "title": "Web Development Tips", "fullText": "Best practices for modern web development" },
+  { "id": 7, "title": "React Mastery", "fullText": "Advanced techniques for building React applications" },
+  { "id": 8, "title": "API Integration", "fullText": "How to integrate APIs into your web apps" },
+  { "id": 9, "title": "Ant Design Guide", "fullText": "Using Ant Design for beautiful UI components" }
+]
